@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- /*** -->
+<!--  * @author 2014140053 谢辉 -->
+<!--  *xox回合制对战游戏_加强版 -->
+<!--  */ -->
+<weapons> 
+  <weapon id="1"> 
+    <name>秦弓</name>  
+    <money>25</money>
+    <addintell>80</addintell>  
+    <physicalInjury>100</physicalInjury>  
+    <physicalResist>0</physicalResist>  
+    <magicInjury>0</magicInjury>  
+    <magicResist>0</magicResist>  
+    <addblood>0</addblood>  
+    <dizziness>0.30</dizziness>  
+    <suckblood>0.15</suckblood>  
+    <blood>0</blood> 
+  </weapon> 
+</weapons>

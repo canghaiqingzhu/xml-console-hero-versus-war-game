@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- /*** -->
+<!--  * @author 2014140053 谢辉 -->
+<!--  *xox回合制对战游戏_加强版 -->
+<!--  */ -->
+<skills> 
+  <skill id="1"> 
+    <name>排山倒海</name>  
+    <physicalInjury>300</physicalInjury>  
+    <magicInjury>0</magicInjury>  
+    <dizziness>0.30</dizziness>  
+    <suckblood>0.00</suckblood> 
+  </skill> 
+  <skill id="2"> 
+    <name>隔山打牛</name>  
+    <physicalInjury>200</physicalInjury>  
+    <magicInjury>0</magicInjury>  
+    <dizziness>0.20</dizziness>  
+    <suckblood>0.10</suckblood> 
+  </skill>
+  <skill id="3"> 
+    <name>打狗法</name>  
+    <physicalInjury>450</physicalInjury>  
+    <magicInjury>0</magicInjury>  
+    <dizziness>0.40</dizziness>  
+    <suckblood>0.00</suckblood> 
+  </skill>
+  <skill id="4"> 
+    <name>千绝</name>  
+    <physicalInjury>0</physicalInjury>  
+    <magicInjury>500</magicInjury>  
+    <dizziness>0.50</dizziness>  
+    <suckblood>0.00</suckblood> 
+  </skill>
+</skills>

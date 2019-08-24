@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<heros> 
+  <hero id="1"> 
+    <name>白起</name>  
+    <intelligence>100</intelligence>  
+    <physicalInjury>1.00</physicalInjury>  
+    <physicalResist>0.98</physicalResist>  
+    <magicInjury>0.00</magicInjury>  
+    <magicResist>0.50</magicResist>  
+    <blood>3000</blood> 
+  </hero>  
+  <hero id="2"> 
+    <name>qq</name>  
+    <intelligence>99</intelligence>  
+    <physicalInjury>0.33</physicalInjury>  
+    <physicalResist>0.44</physicalResist>  
+    <magicInjury>0.55</magicInjury>  
+    <magicResist>0.66</magicResist>  
+    <blood>300</blood> 
+  </hero> 
+</heros>

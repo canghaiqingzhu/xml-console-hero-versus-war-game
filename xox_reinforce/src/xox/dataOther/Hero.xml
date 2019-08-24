@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- /*** -->
+<!--  * @author 2014140053 谢辉 -->
+<!--  *xox回合制对战游戏_加强版 -->
+<!--  */ -->
+<heros> 
+  <hero id="1"> 
+    <name>白起</name>  
+    <intelligence>100</intelligence>  
+    <physicalInjury>1.00</physicalInjury>  
+    <physicalResist>0.98</physicalResist>  
+    <magicInjury>0.00</magicInjury>  
+    <magicResist>0.50</magicResist>  
+    <blood>3000</blood> 
+  </hero> 
+</heros>
